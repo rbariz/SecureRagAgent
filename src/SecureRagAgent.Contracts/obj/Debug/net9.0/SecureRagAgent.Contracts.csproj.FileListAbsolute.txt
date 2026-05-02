@@ -1,0 +1,12 @@
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\bin\Debug\net9.0\SecureRagAgent.Contracts.deps.json
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\bin\Debug\net9.0\SecureRagAgent.Contracts.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\bin\Debug\net9.0\SecureRagAgent.Contracts.pdb
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\SecureRagAgent.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\SecureRagAgent.Contracts.AssemblyInfoInputs.cache
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\SecureRagAgent.Contracts.AssemblyInfo.cs
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\SecureRagAgent.Contracts.csproj.CoreCompileInputs.cache
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\SecureRagAgent.Contracts.sourcelink.json
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\SecureRagAgent.Contracts.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\refint\SecureRagAgent.Contracts.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\SecureRagAgent.Contracts.pdb
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Contracts\obj\Debug\net9.0\ref\SecureRagAgent.Contracts.dll

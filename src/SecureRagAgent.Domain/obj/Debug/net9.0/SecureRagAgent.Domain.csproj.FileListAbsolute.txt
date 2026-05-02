@@ -1,0 +1,12 @@
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\bin\Debug\net9.0\SecureRagAgent.Domain.deps.json
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\bin\Debug\net9.0\SecureRagAgent.Domain.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\bin\Debug\net9.0\SecureRagAgent.Domain.pdb
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\SecureRagAgent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\SecureRagAgent.Domain.AssemblyInfoInputs.cache
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\SecureRagAgent.Domain.AssemblyInfo.cs
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\SecureRagAgent.Domain.csproj.CoreCompileInputs.cache
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\SecureRagAgent.Domain.sourcelink.json
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\SecureRagAgent.Domain.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\refint\SecureRagAgent.Domain.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\SecureRagAgent.Domain.pdb
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Domain\obj\Debug\net9.0\ref\SecureRagAgent.Domain.dll
