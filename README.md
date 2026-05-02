@@ -60,6 +60,10 @@ It combines:
 
 * 🇫🇷 [Modèle de Domaine](docs/fr/domain-model.md)
 
+* 🇬🇧 [Internationalization Strategy](docs/en/i18n.md)
+
+* 🇫🇷 [Stratégie i18n](docs/fr/i18n.md)
+
 ---
 
 ## Architecture (high-level)

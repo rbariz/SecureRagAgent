@@ -1,0 +1,29 @@
+{
+  "DocumentVisibility.Restricted": "Restricted",
+  "DocumentVisibility.Internal": "Internal",
+  "DocumentVisibility.Executive": "Executive",
+
+  "DocumentStatus.PendingIngestion": "Pending ingestion",
+  "DocumentStatus.Processing": "Processing",
+  "DocumentStatus.Indexed": "Indexed",
+  "DocumentStatus.Failed": "Failed",
+
+  "ChatMessageRole.User": "User",
+  "ChatMessageRole.Assistant": "Assistant",
+  "ChatMessageRole.System": "System",
+
+  "RagQueryStatus.Started": "Started",
+  "RagQueryStatus.Completed": "Completed",
+  "RagQueryStatus.BlockedByGuardrail": "Blocked by guardrail",
+  "RagQueryStatus.Failed": "Failed",
+
+  "GuardrailType.OutOfScope": "Out of scope",
+  "GuardrailType.PiiDetected": "PII detected",
+  "GuardrailType.PromptInjection": "Prompt injection",
+  "GuardrailType.NoRelevantSources": "No relevant sources",
+  "GuardrailType.SensitiveOutput": "Sensitive output",
+
+  "GuardrailSeverity.Info": "Info",
+  "GuardrailSeverity.Warning": "Warning",
+  "GuardrailSeverity.Blocked": "Blocked"
+}

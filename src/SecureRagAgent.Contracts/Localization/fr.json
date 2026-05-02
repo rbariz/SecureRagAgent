@@ -1,0 +1,29 @@
+{
+  "DocumentVisibility.Restricted": "Restreint",
+  "DocumentVisibility.Internal": "Interne",
+  "DocumentVisibility.Executive": "Direction",
+
+  "DocumentStatus.PendingIngestion": "En attente d’indexation",
+  "DocumentStatus.Processing": "Traitement en cours",
+  "DocumentStatus.Indexed": "Indexé",
+  "DocumentStatus.Failed": "Échec",
+
+  "ChatMessageRole.User": "Utilisateur",
+  "ChatMessageRole.Assistant": "Assistant",
+  "ChatMessageRole.System": "Système",
+
+  "RagQueryStatus.Started": "Démarré",
+  "RagQueryStatus.Completed": "Terminé",
+  "RagQueryStatus.BlockedByGuardrail": "Bloqué par guardrail",
+  "RagQueryStatus.Failed": "Échec",
+
+  "GuardrailType.OutOfScope": "Hors périmètre",
+  "GuardrailType.PiiDetected": "Donnée personnelle détectée",
+  "GuardrailType.PromptInjection": "Injection de prompt",
+  "GuardrailType.NoRelevantSources": "Aucune source pertinente",
+  "GuardrailType.SensitiveOutput": "Sortie sensible",
+
+  "GuardrailSeverity.Info": "Information",
+  "GuardrailSeverity.Warning": "Avertissement",
+  "GuardrailSeverity.Blocked": "Bloqué"
+}
