@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: secure-rag-postgres
+    environment:
+      POSTGRES_DB: secure_rag_agent
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5437:5432"
+    volumes:
+      - secure_rag_pgdata:/var/lib/postgresql/data
+
+volumes:
+  secure_rag_pgdata:

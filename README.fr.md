@@ -64,6 +64,10 @@ Il combine :
 
 * 🇬🇧 [Internationalization Strategy](docs/en/i18n.md)
 
+* 🇫🇷 [Schéma Base de Données](docs/fr/database.md)
+
+* 🇬🇧 [Database Schema](docs/en/database.md)
+
 ---
 
 ## Architecture (vue simplifiée)

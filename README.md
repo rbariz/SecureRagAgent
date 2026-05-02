@@ -64,6 +64,10 @@ It combines:
 
 * 🇫🇷 [Stratégie i18n](docs/fr/i18n.md)
 
+* 🇬🇧 [Database Schema](docs/en/database.md)
+
+* 🇫🇷 [Schéma Base de Données](docs/fr/database.md)
+
 ---
 
 ## Architecture (high-level)
