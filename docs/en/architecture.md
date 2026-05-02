@@ -1,4 +1,55 @@
-# Secure RAG Agent
+# Architecture — Secure RAG Agent
+
+🌍 Language:
+
+* 🇬🇧 English (default)
+* 🇫🇷 [Français](../fr/architecture.md)
+
+---
+
+## Overview
+
+Secure RAG Agent is designed as a modular, secure, enterprise-ready system for AI-powered knowledge retrieval.
+
+---
+
+## High-Level Architecture
+
+Client → API → RAG Orchestrator → RBAC → Vector DB → LLM → Guardrails → Monitoring
+
+---
+
+## Solution Structure
+
+* Api → HTTP layer
+* Application → business logic
+* Domain → core entities
+* Infrastructure → DB, LLM, external systems
+
+---
+
+## RAG Pipeline
+
+1. User question
+2. Input guardrails
+3. RBAC scope resolution
+4. Retrieval (pgvector)
+5. Prompt construction
+6. LLM call
+7. Output guardrails
+8. Citation validation
+9. Response
+
+---
+
+## Key Principles
+
+* RBAC enforced before retrieval
+* No answer without sources
+* LLM provider abstraction
+* Full observability
+* Security-first design
+Secure RAG Agent
 
 🌍 Language:
 
