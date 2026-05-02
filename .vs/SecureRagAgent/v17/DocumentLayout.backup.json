@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SAASs\\SecureRagAgent\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB97EB5-C8A1-4C29-B144-F9CAED66DA2E}|src\\SecureRagAgent.Api\\SecureRagAgent.Api.csproj|d:\\saass\\secureragagent\\src\\secureragagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB97EB5-C8A1-4C29-B144-F9CAED66DA2E}|src\\SecureRagAgent.Api\\SecureRagAgent.Api.csproj|solutionrelative:src\\secureragagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,19 +62,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Api\\Program.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Api\\Program.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T16:34:49.813Z",
-              "EditorCaption": ""
             }
           ]
         },

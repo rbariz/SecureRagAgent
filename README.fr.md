@@ -56,6 +56,10 @@ Il combine :
 
 * 🇬🇧 [Decisions (ADR)](docs/en/decisions.md)
 
+* 🇫🇷 [Modèle de Domaine](docs/fr/domain-model.md)
+
+* 🇬🇧 [Domain Model](docs/en/domain-model.md)
+
 ---
 
 ## Architecture (vue simplifiée)

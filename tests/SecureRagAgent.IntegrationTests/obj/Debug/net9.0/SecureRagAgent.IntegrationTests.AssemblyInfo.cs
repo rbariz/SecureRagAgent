@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureRagAgent.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+446a23326a0e017357657640961bbe7648541c76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92a18f5a59f01eb1878a783a0235fe9fb0444d14")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureRagAgent.IntegrationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureRagAgent.IntegrationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
