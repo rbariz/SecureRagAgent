@@ -72,6 +72,10 @@ It combines:
 
 * 🇫🇷 [Abstractions Application](docs/fr/application-abstractions.md)
 
+* 🇬🇧 [AI Providers](docs/en/ai-providers.md)
+
+* 🇫🇷 [Providers IA](docs/fr/ai-providers.md)
+
 ---
 
 ## Architecture (high-level)

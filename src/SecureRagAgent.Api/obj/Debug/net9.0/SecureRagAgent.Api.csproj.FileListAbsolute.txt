@@ -160,3 +160,5 @@ D:\SAASs\SecureRagAgent\src\SecureRagAgent.Api\bin\Debug\net9.0\System.Net.Serve
 D:\SAASs\SecureRagAgent\src\SecureRagAgent.Api\bin\Debug\net9.0\System.Text.Encodings.Web.dll
 D:\SAASs\SecureRagAgent\src\SecureRagAgent.Api\bin\Debug\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\SAASs\SecureRagAgent\src\SecureRagAgent.Api\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+D:\SAASs\SecureRagAgent\src\SecureRagAgent.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.dll

@@ -159,3 +159,6 @@ D:\SAASs\SecureRagAgent\tests\SecureRagAgent.IntegrationTests\bin\Debug\net9.0\S
 D:\SAASs\SecureRagAgent\tests\SecureRagAgent.IntegrationTests\bin\Debug\net9.0\System.Text.Json.dll
 D:\SAASs\SecureRagAgent\tests\SecureRagAgent.IntegrationTests\bin\Debug\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\SAASs\SecureRagAgent\tests\SecureRagAgent.IntegrationTests\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.IntegrationTests\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.IntegrationTests\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.IntegrationTests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll

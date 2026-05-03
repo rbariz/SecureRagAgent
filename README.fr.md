@@ -72,6 +72,10 @@ Il combine :
 
 * 🇬🇧 [Application Abstractions](docs/en/application-abstractions.md)
 
+* 🇫🇷 [Providers IA](docs/fr/ai-providers.md)
+
+* 🇬🇧 [AI Providers](docs/en/ai-providers.md)
+
 ---
 
 ## Architecture (vue simplifiée)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureRagAgent.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd6f0c2bf76d6764749a6afbb436d4cff1fbc60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c3b9c505d335a8fab63c9f71c00222ad392f20d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureRagAgent.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureRagAgent.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
