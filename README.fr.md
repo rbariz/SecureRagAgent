@@ -68,6 +68,10 @@ Il combine :
 
 * 🇬🇧 [Database Schema](docs/en/database.md)
 
+* 🇫🇷 [Abstractions Application](docs/fr/application-abstractions.md)
+
+* 🇬🇧 [Application Abstractions](docs/en/application-abstractions.md)
+
 ---
 
 ## Architecture (vue simplifiée)

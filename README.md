@@ -68,6 +68,10 @@ It combines:
 
 * 🇫🇷 [Schéma Base de Données](docs/fr/database.md)
 
+* 🇬🇧 [Application Abstractions](docs/en/application-abstractions.md)
+
+* 🇫🇷 [Abstractions Application](docs/fr/application-abstractions.md)
+
 ---
 
 ## Architecture (high-level)

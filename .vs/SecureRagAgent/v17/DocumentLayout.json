@@ -1,52 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SAASs\\SecureRagAgent\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|d:\\saass\\secureragagent\\src\\secureragagent.infrastructure\\persistence\\designtime\\secureragagentdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|solutionrelative:src\\secureragagent.infrastructure\\persistence\\designtime\\secureragagentdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|d:\\saass\\secureragagent\\src\\secureragagent.infrastructure\\dependencyinjection\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|solutionrelative:src\\secureragagent.infrastructure\\dependencyinjection\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB97EB5-C8A1-4C29-B144-F9CAED66DA2E}|src\\SecureRagAgent.Api\\SecureRagAgent.Api.csproj|d:\\saass\\secureragagent\\src\\secureragagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FEB97EB5-C8A1-4C29-B144-F9CAED66DA2E}|src\\SecureRagAgent.Api\\SecureRagAgent.Api.csproj|solutionrelative:src\\secureragagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB97EB5-C8A1-4C29-B144-F9CAED66DA2E}|src\\SecureRagAgent.Api\\SecureRagAgent.Api.csproj|d:\\saass\\secureragagent\\src\\secureragagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB97EB5-C8A1-4C29-B144-F9CAED66DA2E}|src\\SecureRagAgent.Api\\SecureRagAgent.Api.csproj|solutionrelative:src\\secureragagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|d:\\saass\\secureragagent\\src\\secureragagent.infrastructure\\persistence\\configurations\\documentchunkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|solutionrelative:src\\secureragagent.infrastructure\\persistence\\configurations\\documentchunkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|d:\\saass\\secureragagent\\src\\secureragagent.infrastructure\\persistence\\configurations\\entityconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|solutionrelative:src\\secureragagent.infrastructure\\persistence\\configurations\\entityconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|d:\\saass\\secureragagent\\src\\secureragagent.infrastructure\\persistence\\secureragagentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F93F1012-FE9B-4E78-98F8-23F4145488DE}|src\\SecureRagAgent.Infrastructure\\SecureRagAgent.Infrastructure.csproj|solutionrelative:src\\secureragagent.infrastructure\\persistence\\secureragagentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9875F726-CAEA-4B6A-B3C7-E207FA2D14F2}|src\\SecureRagAgent.Contracts\\SecureRagAgent.Contracts.csproj|d:\\saass\\secureragagent\\src\\secureragagent.contracts\\localization\\fr.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9875F726-CAEA-4B6A-B3C7-E207FA2D14F2}|src\\SecureRagAgent.Contracts\\SecureRagAgent.Contracts.csproj|solutionrelative:src\\secureragagent.contracts\\localization\\fr.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9875F726-CAEA-4B6A-B3C7-E207FA2D14F2}|src\\SecureRagAgent.Contracts\\SecureRagAgent.Contracts.csproj|d:\\saass\\secureragagent\\src\\secureragagent.contracts\\localization\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9875F726-CAEA-4B6A-B3C7-E207FA2D14F2}|src\\SecureRagAgent.Contracts\\SecureRagAgent.Contracts.csproj|solutionrelative:src\\secureragagent.contracts\\localization\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9875F726-CAEA-4B6A-B3C7-E207FA2D14F2}|src\\SecureRagAgent.Contracts\\SecureRagAgent.Contracts.csproj|d:\\saass\\secureragagent\\src\\secureragagent.contracts\\common\\enumkeyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9875F726-CAEA-4B6A-B3C7-E207FA2D14F2}|src\\SecureRagAgent.Contracts\\SecureRagAgent.Contracts.csproj|solutionrelative:src\\secureragagent.contracts\\common\\enumkeyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C265E5F7-757C-4219-BDA9-E2616CA3B7DF}|src\\SecureRagAgent.Domain\\SecureRagAgent.Domain.csproj|d:\\saass\\secureragagent\\src\\secureragagent.domain\\guardrails\\guardrailseverity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C265E5F7-757C-4219-BDA9-E2616CA3B7DF}|src\\SecureRagAgent.Domain\\SecureRagAgent.Domain.csproj|solutionrelative:src\\secureragagent.domain\\guardrails\\guardrailseverity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -54,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -107,149 +62,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InfrastructureServiceCollectionExtensions.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T17:33:57.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SecureRagAgentDbContextFactory.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\DesignTime\\SecureRagAgentDbContextFactory.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Infrastructure\\Persistence\\DesignTime\\SecureRagAgentDbContextFactory.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\DesignTime\\SecureRagAgentDbContextFactory.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Infrastructure\\Persistence\\DesignTime\\SecureRagAgentDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T17:25:39.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Api\\Program.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Api\\Program.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T17:24:50.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Api\\appsettings.json",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Api\\appsettings.json",
-              "RelativeToolTip": "src\\SecureRagAgent.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-02T17:24:27.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DocumentChunkConfiguration.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\DocumentChunkConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\DocumentChunkConfiguration.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\DocumentChunkConfiguration.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\DocumentChunkConfiguration.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAASwB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T17:23:18.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EntityConfigurationExtensions.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\EntityConfigurationExtensions.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\EntityConfigurationExtensions.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\EntityConfigurationExtensions.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Infrastructure\\Persistence\\Configurations\\EntityConfigurationExtensions.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T17:19:13.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SecureRagAgentDbContext.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\SecureRagAgentDbContext.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Infrastructure\\Persistence\\SecureRagAgentDbContext.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Infrastructure\\Persistence\\SecureRagAgentDbContext.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Infrastructure\\Persistence\\SecureRagAgentDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T17:18:35.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "fr.json",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Contracts\\Localization\\fr.json",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Contracts\\Localization\\fr.json",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Contracts\\Localization\\fr.json",
-              "RelativeToolTip": "src\\SecureRagAgent.Contracts\\Localization\\fr.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-02T17:01:42.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "en.json",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Contracts\\Localization\\en.json",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Contracts\\Localization\\en.json",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Contracts\\Localization\\en.json",
-              "RelativeToolTip": "src\\SecureRagAgent.Contracts\\Localization\\en.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-02T17:01:06.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EnumKeyExtensions.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Contracts\\Common\\EnumKeyExtensions.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Contracts\\Common\\EnumKeyExtensions.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Contracts\\Common\\EnumKeyExtensions.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Contracts\\Common\\EnumKeyExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T16:59:52.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GuardrailSeverity.cs",
-              "DocumentMoniker": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Domain\\Guardrails\\GuardrailSeverity.cs",
-              "RelativeDocumentMoniker": "src\\SecureRagAgent.Domain\\Guardrails\\GuardrailSeverity.cs",
-              "ToolTip": "D:\\SAASs\\SecureRagAgent\\src\\SecureRagAgent.Domain\\Guardrails\\GuardrailSeverity.cs",
-              "RelativeToolTip": "src\\SecureRagAgent.Domain\\Guardrails\\GuardrailSeverity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T16:55:44.917Z",
-              "EditorCaption": ""
             }
           ]
         },

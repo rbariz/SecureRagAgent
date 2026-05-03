@@ -107,3 +107,11 @@ D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\obj\Debug\net9.0\refint\S
 D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\obj\Debug\net9.0\SecureRagAgent.UnitTests.pdb
 D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\obj\Debug\net9.0\SecureRagAgent.UnitTests.genruntimeconfig.cache
 D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\obj\Debug\net9.0\ref\SecureRagAgent.UnitTests.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\SAASs\SecureRagAgent\tests\SecureRagAgent.UnitTests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
