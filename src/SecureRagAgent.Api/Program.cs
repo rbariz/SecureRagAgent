@@ -1,5 +1,6 @@
 using SecureRagAgent.Application.DependencyInjection;
 using SecureRagAgent.Infrastructure.DependencyInjection;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,24 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+//try
+//{
+//    app.MapControllers();
+//}
+//catch (ReflectionTypeLoadException ex)
+//{
+//    Console.WriteLine("=== ReflectionTypeLoadException ===");
+
+//    foreach (var loaderException in ex.LoaderExceptions)
+//    {
+//        Console.WriteLine(loaderException?.GetType().FullName);
+//        Console.WriteLine(loaderException?.Message);
+//        Console.WriteLine(loaderException?.StackTrace);
+//        Console.WriteLine("----------------------------------");
+//    }
+
+//    throw;
+//}
 app.MapControllers();
 
 app.Run();

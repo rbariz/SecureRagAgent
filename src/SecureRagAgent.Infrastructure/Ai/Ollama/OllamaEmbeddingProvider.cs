@@ -19,23 +19,35 @@ namespace SecureRagAgent.Infrastructure.Ai.Ollama
             var payload = new
             {
                 model = request.Model,
-                prompt = request.Text
+                input = request.Text
             };
 
-            var response = await _http.PostAsJsonAsync("/api/embeddings", payload, cancellationToken);
+            var response = await _http.PostAsJsonAsync(
+                "/api/embed",
+                payload,
+                cancellationToken);
+
             response.EnsureSuccessStatusCode();
 
-            var result = await response.Content.ReadFromJsonAsync<OllamaEmbeddingResponse>(cancellationToken);
+            var result = await response.Content.ReadFromJsonAsync<OllamaEmbedResponse>(
+                cancellationToken);
+
+            var vector = result?.Embeddings?.FirstOrDefault();
+
+            if (vector is null || vector.Length == 0)
+            {
+                throw new InvalidOperationException("Ollama returned an empty embedding.");
+            }
 
             return new EmbeddingResponse(
-                result!.embedding,
+                vector,
                 "Ollama",
                 request.Model);
         }
 
-        private sealed class OllamaEmbeddingResponse
+        private sealed class OllamaEmbedResponse
         {
-            public float[] embedding { get; set; } = default!;
+            public float[][] Embeddings { get; set; } = [];
         }
     }
 }

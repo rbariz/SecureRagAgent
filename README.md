@@ -76,6 +76,10 @@ It combines:
 
 * 🇫🇷 [Providers IA](docs/fr/ai-providers.md)
 
+* 🇬🇧 [Document Ingestion](docs/en/ingestion.md)
+
+* 🇫🇷 [Ingestion documentaire](docs/fr/ingestion.md)
+
 ---
 
 ## Architecture (high-level)

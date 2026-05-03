@@ -2,7 +2,9 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SecureRagAgent.Application.Abstractions.Ai;
+using SecureRagAgent.Application.Abstractions.Documents;
 using SecureRagAgent.Infrastructure.Ai.Factory;
+using SecureRagAgent.Infrastructure.Documents.Ingestion;
 using SecureRagAgent.Infrastructure.Persistence;
 
 namespace SecureRagAgent.Infrastructure.DependencyInjection;
@@ -40,6 +42,8 @@ public static class InfrastructureServiceCollectionExtensions
 
         services.AddScoped<IEmbeddingProvider>(sp =>
             sp.GetRequiredService<AiProviderFactory>().CreateEmbedding());
+
+        services.AddScoped<IDocumentIngestionService, DocumentIngestionService>();
 
         return services;
     }

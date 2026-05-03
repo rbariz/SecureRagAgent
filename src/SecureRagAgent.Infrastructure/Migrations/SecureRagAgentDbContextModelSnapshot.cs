@@ -99,7 +99,7 @@ namespace SecureRagAgent.Infrastructure.Migrations
                         .HasColumnName("document_id");
 
                     b.Property<Vector>("Embedding")
-                        .HasColumnType("vector(1536)")
+                        .HasColumnType("vector(768)")
                         .HasColumnName("embedding");
 
                     b.Property<string>("SectionTitle")

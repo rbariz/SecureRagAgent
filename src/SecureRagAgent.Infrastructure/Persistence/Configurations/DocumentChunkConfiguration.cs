@@ -31,7 +31,7 @@ public sealed class DocumentChunkConfiguration : IEntityTypeConfiguration<Docume
         // Shadow property: keeps Domain independent from Pgvector.
         builder.Property<Vector>("Embedding")
             .HasColumnName("embedding")
-            .HasColumnType("vector(1536)");
+            .HasColumnType("vector(768)");
 
         builder.HasIndex(x => new { x.DocumentId, x.ChunkIndex })
             .IsUnique();
